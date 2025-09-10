@@ -1,11 +1,11 @@
 [![MasterHead](https://wallpaperaccess.com/full/1614580.png)]
 <h1 align="center">Hi 👋, I'm Soujanya Das</h1>
-<h3 align="center">JAVA Programmer | React developer</h3>
+<h3 align="center">JAVA Programmer | ML model Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <a href="https://twitter.com/yyzuus" target="blank"><img src="https://img.shields.io/twitter/follow/yyzuus?logo=twitter&style=for-the-badge" alt="yyzuus" /></a> </p>
 
-- 🌱 I’m currently learning **Spring, React**
+- 🌱 I’m currently learning **commvault, NAS**
 
 - 📫 How to reach me **dsoujanya215@gmail.com**
 
